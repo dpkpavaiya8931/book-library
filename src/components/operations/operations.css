@@ -1,0 +1,20 @@
+.container{
+    margin: 10px;
+}
+
+.operation-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.operation-container Button{
+    margin-left: 20px;
+}
+
+.Form.Control{
+    margin-bottom: 5px;
+}
+
+.book-title{
+    color: red;
+}
